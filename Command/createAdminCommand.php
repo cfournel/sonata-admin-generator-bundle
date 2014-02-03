@@ -28,7 +28,7 @@ class createAdminCommand extends ContainerAwareCommand
             ->setHelp(<<<EOT
 The <info>admin:generate</info> command generate all Sonata admin files in order to manage all entities included in a defined bundle:
 
-  <info>php app/console doctrine:generate myBundle</info>
+  <info>php app/console admin:generate myBundle</info>
 
 This interactive will generate all Sonata admin stuff included in myBundle.
 
