@@ -8,10 +8,10 @@ It provide you some command lines to generator admin class for your entities ...
 Installation
 ------------
 
-VObject requires PHP 5.3, and should be installed using composer.
+Sonata admin generator requires PHP 5.3, and should be installed using composer.
 The general composer instructions can be found on the [composer website](http://getcomposer.org/doc/00-intro.md composer website).
 
-After that, just declare the vobject dependency as follows:
+After that, just declare the bundle as follows into you composer.json :
 
 ```
 "require" : {
@@ -25,7 +25,7 @@ Then, run `composer.phar update` and you should be good.
 Finally add the following code to your AppKernel.php
 
 ```
-new NewbridgeGreen\TestBundle\NewbridgeGreenTestBundle(),
+new huitiemesens\SonataAdminGeneratorBundle\huitiemesensSonataAdminGeneratorBundle(),
 ```
 
 
