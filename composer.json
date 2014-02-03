@@ -3,7 +3,7 @@
     "type": "symfony-bundle",
     "description": "A tool to auto generate basic Sonata admin class",
     "keywords": ["sonata", "generator"],
-    "homepage": "https://bitbucket.org/huitiemesens/myadmingeneratorbundle",
+    "homepage": "https://github.com/huitiemesens/sonata-admin-generator-bundle",
     "license": "MIT",
     "authors": [
         {

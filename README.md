@@ -22,6 +22,13 @@ After that, just declare the vobject dependency as follows:
 Then, run `composer.phar update` and you should be good.
 
 
+Finally add the following code to your AppKernel.php
+
+```
+new NewbridgeGreen\TestBundle\NewbridgeGreenTestBundle(),
+```
+
+
 Usage
 -----
 
