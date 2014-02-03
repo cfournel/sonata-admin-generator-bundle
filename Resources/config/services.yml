@@ -1,0 +1,7 @@
+parameters:
+#    my_biopassport_admin_generator.example.class: myBiopassport\AdminGeneratorBundle\Example
+
+services:
+#    my_biopassport_admin_generator.example:
+#        class: %my_biopassport_admin_generator.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

@@ -1,0 +1,25 @@
+{
+    "name": "huitiemesense/sonata-admin-generator-bundle",
+    "type": "symfony-bundle",
+    "description": "A tool to auto generate basic Sonata admin class",
+    "keywords": ["sonata", "generator"],
+    "homepage": "https://bitbucket.org/huitiemesens/myadmingeneratorbundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Charles-antoine FOURNEL",
+            "email": "charles@huitiemesens.fr"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "require-dev": {
+        "symfony/framework-bundle": ">=2.1,<2.2-dev"
+    },
+    "autoload": {
+        "psr-0": { "huitiemesens\\sonata-admin-generator-bundle": "" }
+    },
+    "minimum-stability": "dev",
+    "target-dir": "huitiemesens/sonata-admin-generator-bundle"
+}
