@@ -25,7 +25,7 @@ Then, run `composer.phar update` and you should be good.
 Finally add the following code to your AppKernel.php
 
 ```
-new NewbridgeGreen\TestBundle\NewbridgeGreenTestBundle(),
+new huitiemesens\SonataAdminGeneratorBundle\huitiemesensSonataAdminGeneratorBundle(),
 ```
 
 
