@@ -15,7 +15,7 @@ After that, just declare the bundle as follows into you composer.json :
 
 ```
 "require" : {
-    "huitiemesens/sonata-admin-generator-bundle" : "dev-master"
+    "huitiemesens/sonataAdminGeneratorBundle" : "dev-master"
 }
 ```
 
@@ -25,7 +25,7 @@ Then, run `composer.phar update` and you should be good.
 Finally add the following code to your AppKernel.php
 
 ```
-new huitiemesens\SonataAdminGeneratorBundle\huitiemesensSonataAdminGeneratorBundle(),
+new huitiemesens\sonataAdminGeneratorBundle\huitiemesensSonataAdminGeneratorBundle(),
 ```
 
 
