@@ -15,7 +15,7 @@ After that, just declare the bundle as follows into you composer.json :
 
 ```
 "require" : {
-    "huitiemesens/sonataAdminGeneratorBundle" : "dev-master"
+    "huitiemesens/sonata-admin-generator-bundle" : "dev-master"
 }
 ```
 
